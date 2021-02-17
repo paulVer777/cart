@@ -1,0 +1,21 @@
+.container{
+    width: 1000px;
+    margin: 100px auto 0 auto;
+};
+
+.row {
+    padding: 10px;
+    border-bottom: 1px solid silver;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+};
+
+.row__product-info{
+    margin: 0;
+};
+
+.cart-control{
+    display: flex;
+    justify-content: space-between;
+};
